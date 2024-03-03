@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1174014039333031936/1191063775432954000/OIG_4.jpg" width="300"/>
+<img src="https://i.imgur.com/odOXfn5.jpeg" width="300"/>
 
 # PLUGIN WeatherSystem
 
